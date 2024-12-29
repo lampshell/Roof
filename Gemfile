@@ -31,7 +31,7 @@ gem "solid_cable"
 #language gems
 gem 'haml-rails'
 gem 'coffee-rails'
-gem 'bootstrap', '~> 5.1.3'
+gem 'bootstrap', '~> 5.3.3'
 gem 'sassc-rails'
 
 # Reduces boot times through caching; required in config/boot.rb
